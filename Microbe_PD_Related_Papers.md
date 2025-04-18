@@ -5,6 +5,7 @@
 	- The study found widespread presence of bacteria in brain areas associated with AD and PD pathology, with distinct differences in bacterial profiles between blood and brain.
 	- Brain area profiles were predominantly oral, with some bacteria subgingival and oronasal in origin, and showed relatively comparable profiles in AD and PD brain.
 	- Brain areas associated with early disease development, such as the locus coeruleus, had substantially different bacterial DNA content compared to areas affected later in disease etiology.
+	- - Distinctly different bacterial profiles were found in blood and brain.
 -  [Hepatitis C virus infection as a risk factor for Parkinson disease: A nationwide cohort study](https://pubmed.ncbi.nlm.nih.gov/26701382/)
 	- This study investigated whether hepatitis C virus infection increases the risk of developing Parkinson's disease
 	- The study included a total of 49,967 patients with viral hepatitis and 199,868 people without viral hepatitis for comparison.

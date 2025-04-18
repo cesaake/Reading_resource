@@ -1,0 +1,23 @@
+- [Parkinson's Disease: A Comprehensive Analysis of Fungi and Bacteria in Brain Tissue](https://pmc.ncbi.nlm.nih.gov/articles/PMC7053320/)
+	- Obtained CNS sections and frozen tissue from 6 patients with PD and 4 control subjects to investigate Fungi and Bacteria in the brain Tissue
+-  [High resolution 16S rRNA gene Next Generation Sequencing study of brain areas associated with Alzheimer’s and Parkinson’s disease](https://doi.org/10.3389/fnagi.2022.1026260)
+	- They used high resolution 16S rRNA PCR-based Next Generation Sequencing (16SNGS) to characterize bacterial composition in brain areas associated with the early, intermediate and late-stage of the diseases.
+	- The study found widespread presence of bacteria in brain areas associated with AD and PD pathology, with distinct differences in bacterial profiles between blood and brain.
+	- Brain area profiles were predominantly oral, with some bacteria subgingival and oronasal in origin, and showed relatively comparable profiles in AD and PD brain.
+	- Brain areas associated with early disease development, such as the locus coeruleus, had substantially different bacterial DNA content compared to areas affected later in disease etiology.
+-  [Hepatitis C virus infection as a risk factor for Parkinson disease: A nationwide cohort study](https://pubmed.ncbi.nlm.nih.gov/26701382/)
+	- This study investigated whether hepatitis C virus infection increases the risk of developing Parkinson's disease
+	- The study included a total of 49,967 patients with viral hepatitis and 199,868 people without viral hepatitis for comparison.
+	- Patients with viral hepatitis were grouped into three cohorts: hepatitis B virus (HBV) infection, hepatitis C virus (HCV) infection, and HBV-HCV coinfection.
+	- The incidence of developing Parkinson's disease (PD) was calculated in each cohort.
+	- A Cox proportional hazards model was applied to estimate the risk of developing PD in terms of hazard ratios (HRs) and 95% confidence intervals (CIs).
+- [Microbes and Parkinson’s disease: from associations to mechanisms](https://doi.org/10.1016/j.tim.2022.01.004)
+-  [Inflammatory microbes and genes as potential biomarkers of Parkinson’s disease](https://www.nature.com/articles/s41522-022-00367-z)
+-  [Investigating the Roles of Gut Microbiome in the Progression of Neurodegenerative Diseases: Alzheimer's, Parkinson's, and Amyotrophic Lateral Sclerosis (ALS)](https://doi.org/10.9734/indj/2024/v21i3433)
+- [Evidence for association between hepatitis C virus and Parkinson’s disease](https://link.springer.com/article/10.1007/s10072-017-3077-4)
+- [Infections and Changes in Commensal Bacteria and the Pathogenesis of Parkinson’s Disease](https://journals.sagepub.com/doi/full/10.3233/JPD-223271)
+- [Microbiome signatures of virulence in the oral-gut-brain axis influence Parkinson’s disease and cognitive decline pathophysiology](https://www.biorxiv.org/content/10.1101/2024.10.14.618175v1.full)
+- [Infection and Risk of Parkinson’s Disease](https://journals.sagepub.com/doi/full/10.3233/JPD-202279)
+- [The impact of indigenous microbes on Parkinson's disease](https://doi.org/10.1016/j.nbd.2019.03.014)
+	- **Note - This is a review**
+	- The explored the potential roles for the intestinal microbiome in influencing and modulating PD
